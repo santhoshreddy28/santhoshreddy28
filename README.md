@@ -1,82 +1,302 @@
-# Hi there, I'm Santhosh Reddy 👋
+<div align="center">
 
-### 💻 Software Engineer • Full-Stack Developer • Cybersecurity Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Santhosh%20Reddy&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%7C%20Cybersecurity&descAlignY=58&descSize=17" width="100%"/>
 
-I'm a Computer Science undergraduate specializing in Cybersecurity, passionate about building practical software, intelligent applications, and security-focused solutions.
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Building+Modern+Web+Applications+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;Building+AI-Powered+Applications+%F0%9F%A4%96;Cybersecurity+%7C+Linux+%7C+Network+Security+%F0%9F%94%90;Java+%7C+Python+%7C+DSA+%7C+Problem+Solving" alt="Typing Animation"/>
+</a>
 
-I enjoy working across **software development, full-stack engineering, AI, cybersecurity, and problem solving**.
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/santhoshreddy28)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/santhoshreddy25/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/twc46MvLQy/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/g.l.santhoshreddy)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gajjalasanthoshreddy@gmail.com)
+<a href="https://github.com/santhoshreddy28">
+<img src="https://img.shields.io/badge/GitHub-santhoshreddy28-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/santhoshreddy25/">
+<img src="https://img.shields.io/badge/LinkedIn-Santhosh%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/twc46MvLQy/">
+<img src="https://img.shields.io/badge/LeetCode-twc46MvLQy-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://tryhackme.com/p/g.l.santhoshreddy">
+<img src="https://img.shields.io/badge/TryHackMe-g.l.santhoshreddy-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+<a href="mailto:gajjalasanthoshreddy@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 **B.Tech Computer Science & Engineering (Cybersecurity)** at **Lovely Professional University**
-* 📅 **2023–2027**
-* 💻 Interested in **Software Engineering, Full-Stack Development, Backend Engineering, AI, and Cybersecurity**
-* ☕ Strong interest in **Java, Python, C++, JavaScript, TypeScript, SQL, and Data Structures & Algorithms**
-* 🌐 Building modern applications with **React, Next.js, Node.js, Express.js, TypeScript, PostgreSQL, and MongoDB**
-* 🤖 Exploring **Generative AI, AI-powered applications, LangGraph, and Gemini**
-* 🔐 Hands-on experience with **network security, vulnerability assessment, penetration testing, Linux, and security tools**
-* 🧪 Regularly working on projects, security labs, CTFs, and coding challenges
-* 🚀 Enjoy turning ideas into practical, production-style applications
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🎓 **B.Tech Computer Science & Engineering (Cybersecurity)**  
+🏫 **Lovely Professional University**  
+📅 **2023 – 2027**
+
+💻 Software Engineering & Full-Stack Development
+
+🌐 Building applications with **TypeScript, React, Next.js, Node.js and Express.js**
+
+🤖 Building and exploring **AI-powered applications using LangGraph and Gemini**
+
+🔐 Hands-on experience in **Cybersecurity, Linux, Networking, Vulnerability Assessment and Penetration Testing**
+
+🧠 Practicing **Java, Python, SQL and Data Structures & Algorithms**
+
+🚀 Interested in building practical, scalable and production-style applications
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ What I Do
 
-### 💻 Programming Languages
+<table>
+<tr>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+<td width="25%" align="center">
 
-### 🌐 Frontend Development
+### 💻
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+### Software Engineering
 
-### ⚙️ Backend & Databases
+Java  
+Python  
+TypeScript  
+DSA
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+</td>
 
-### 🤖 AI & Modern Development
+<td width="25%" align="center">
 
-![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+### 🌐
 
-### 🔐 Cybersecurity
+### Full-Stack Development
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![Scapy](https://img.shields.io/badge/Scapy-2E8B57?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+React  
+Next.js  
+Node.js  
+Express.js
 
-### 🧰 Tools & Platforms
+</td>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+<td width="25%" align="center">
+
+### 🤖
+
+### AI Development
+
+LangGraph  
+Gemini  
+AI Applications
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔐
+
+### Cybersecurity
+
+Linux  
+Network Security  
+Pentesting  
+CTFs
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ Core Tech Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,java,python,cpp" />
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
+</p>
+
+### Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
+</p>
+
+### AI & Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,python,docker,git,github" />
+</p>
+
+<p align="center">
+
+`LangGraph` • `Gemini` • `REST APIs` • `JWT`
+
+</p>
+
+### Cybersecurity
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,docker" />
+</p>
+
+<p align="center">
+
+`Nmap` • `Burp Suite` • `Wireshark` • `Scapy`
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 ReasonVest-AI
+
+**AI-Powered Investment Research Platform**
+
+A modern AI application that analyzes public companies using financial data, metrics and news to generate structured investment research.
+
+**Tech Stack**
+
+`Next.js` `React` `TypeScript`  
+`LangGraph` `Gemini` `MongoDB`
+
+**Highlights**
+
+- AI-powered investment research
+- Parallel data retrieval
+- AI provider fallback
+- Retry and caching mechanisms
+- Company comparison
+- AI assistant
+- Voice interaction
+- Financial visualizations
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📦 SupplyHub
+
+**ERP & CRM Management System**
+
+A full-stack platform connecting customer management, sales, inventory, delivery and invoicing workflows.
+
+**Tech Stack**
+
+`React` `TypeScript`  
+`Node.js` `Express.js`  
+`PostgreSQL` `JWT`
+
+**Highlights**
+
+- REST APIs
+- JWT authentication
+- Role-based access control
+- Protected routes
+- Inventory validation
+- Stock IN/OUT tracking
+- Multi-role workflows
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛡️ Personal Firewall
+
+**Python Network Security Project**
+
+A lightweight firewall designed to monitor network traffic and apply configurable packet-filtering rules.
+
+**Tech Stack**
+
+`Python` `Scapy` `Linux` `Tkinter`
+
+**Highlights**
+
+- Real-time traffic monitoring
+- Packet filtering
+- IP filtering
+- Port filtering
+- Protocol-based rules
+- Network activity logging
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐳 Docker Security Lab
+
+**Container Security & Hardening**
+
+A hands-on security lab focused on container misconfigurations, escape risks and hardening.
+
+**Tech Stack**
+
+`Docker` `Linux`
+
+**Highlights**
+
+- Privileged container testing
+- Insecure mount analysis
+- Host-access assessment
+- Escape-risk analysis
+- Least-privilege hardening
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+### 🍯 Cowrie Honeypot
+
+**SSH Attack Monitoring & Intrusion Analysis**
+
+A Cowrie SSH honeypot deployment used to capture malicious activity and analyze attacker behavior.
+
+**Tech Stack**
+
+`Kali Linux` `Cowrie` `Python` `JSON Logs`
+
+**Highlights**
+
+- SSH honeypot deployment
+- Attack capture
+- Attacker-command analysis
+- Log analysis
+- Intrusion-pattern detection
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -84,175 +304,226 @@ I enjoy working across **software development, full-stack engineering, AI, cyber
 
 ### 🔐 Elevate Labs
 
-**Cybersecurity Intern** `Sep 2025 – Nov 2025`
+**Cybersecurity Intern**  
+`Sep 2025 – Nov 2025`
 
-* Performed vulnerability assessment and penetration testing on web and network systems
-* Analyzed 50+ network logs to identify suspicious activity and anomalies
-* Worked on threat analysis and technical troubleshooting
-* Gained practical exposure to security testing workflows
+- Performed vulnerability assessment and penetration testing on web and network systems
+- Analyzed 50+ network logs to identify suspicious activity and anomalies
+- Worked on threat analysis and technical troubleshooting
+- Gained practical exposure to security testing workflows
 
 ### 🐧 Red Hat Academy — LPU
 
-**Linux System Administration Training** `Jun 2025 – Jul 2025`
+**Linux System Administration Training**  
+`Jun 2025 – Jul 2025`
 
-* Worked with Linux user management and process control
-* Practiced system configuration, file permissions, and service management
-* Built hands-on troubleshooting experience in Linux environments
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 ReasonVest-AI
-
-**AI-Powered Investment Research Platform**
-
-An AI-powered application that analyzes public companies using financial data, metrics, and news to generate structured investment research.
-
-**Tech Stack**
-
-`Next.js` `React` `TypeScript` `LangGraph.js` `Gemini AI` `MongoDB`
-
-**Highlights**
-
-* AI-powered financial research workflows
-* Parallel data retrieval
-* Provider fallback and retry mechanisms
-* Report caching
-* AI assistant and company comparison
-* Voice interaction and document support
-* Financial visualizations
+- Worked with Linux user management and process control
+- Practiced system configuration and file permissions
+- Worked with Linux service management
+- Built hands-on troubleshooting experience
 
 ---
 
-### 📦 SupplyHub
+## 🏆 Achievements
 
-**ERP & CRM Management System**
+<p align="center">
 
-A full-stack business platform connecting customer management, sales, inventory, delivery, and invoicing workflows.
+<img src="https://img.shields.io/badge/UTKANSH%20ROOTBREACH%202026-7th%20Place-FFD700?style=for-the-badge"/>
 
-**Tech Stack**
+<img src="https://img.shields.io/badge/TryHackMe-Top%207%25-00E5FF?style=for-the-badge"/>
 
-`React` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `JWT`
+<img src="https://img.shields.io/badge/Naukri%20Young%20Turks-95.33-7C4DFF?style=for-the-badge"/>
 
-**Highlights**
+</p>
 
-* REST API architecture
-* JWT authentication
-* Role-based access control
-* Protected routes
-* Inventory validation
-* Stock IN/OUT tracking
-* Multi-role workflows
-
----
-
-### 🛡️ Personal Firewall
-
-**Python-Based Network Traffic Monitoring & Packet Filtering**
-
-A lightweight firewall designed to monitor network traffic and apply configurable filtering rules.
-
-**Tech Stack**
-
-`Python` `Scapy` `Linux` `Tkinter`
-
----
-
-### 🐳 Docker Security Lab
-
-**Container Security & Escape Risk Assessment**
-
-Hands-on security experimentation involving privileged containers, insecure mounts, host-access risks, and container hardening.
-
-**Tech Stack**
-
-`Docker` `Linux` `Container Security`
-
----
-
-### 🍯 Cowrie Honeypot
-
-**SSH Attack Monitoring & Intrusion Analysis**
-
-A honeypot deployment used to capture malicious SSH activity and analyze attacker behavior.
-
-**Tech Stack**
-
-`Kali Linux` `Cowrie` `Python` `JSON`
-
----
-
-## 🏆 Achievements & Activities
-
-* 🥇 **UTKANSH ROOTBREACH 2026** — 7th place among 40+ teams
-* 🌎 **TryHackMe** — Top 7% global ranking
-* 🏅 **Naukri Campus Young Turks 2025** — Round 2, score **95.33**
-* 🔐 Participated in web, network, and system security CTF challenges
-* 🧪 Participated in cybersecurity workshops and technical hackathons
+- 🥇 **UTKANSH ROOTBREACH 2026** — 7th place among 40+ teams
+- 🌎 **TryHackMe** — Top 7% global ranking
+- 🏅 **Naukri Campus Young Turks 2025** — Round 2 score of 95.33
+- 🔐 Participated in web, network and system-security CTFs
+- 🧪 Participated in cybersecurity workshops and technical hackathons
 
 ---
 
 ## 📜 Certifications
 
-* ☁️ **Google Cloud Cybersecurity Certificate**
-* 🌐 **Oracle Cloud Infrastructure 2025 Certified Networking Professional**
-* 🤖 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-* 🗄️ **Oracle Data Platform 2025 Certified Foundations Associate**
-* 🐧 **Red Hat RH124 & RH134 Linux Administration Training**
+- ☁️ **Google Cloud Cybersecurity Certificate**
+- 🌐 **Oracle Cloud Infrastructure 2025 Certified Networking Professional**
+- 🤖 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
+- 🗄️ **Oracle Data Platform 2025 Certified Foundations Associate**
+- 🐧 **Red Hat RH124 & RH134 Linux Administration Training**
 
 ---
 
-## 💻 Coding & Professional Profiles
+## 💻 Coding & Security Profiles
 
-| Platform     | Profile                                                        |
-| ------------ | -------------------------------------------------------------- |
-| 🐙 GitHub    | [santhoshreddy28](https://github.com/santhoshreddy28)          |
-| 💼 LinkedIn  | [Santhosh Reddy](https://www.linkedin.com/in/santhoshreddy25/) |
-| 🧩 LeetCode  | [twc46MvLQy](https://leetcode.com/u/twc46MvLQy/)               |
-| 🔐 TryHackMe | [g.l.santhoshreddy](https://tryhackme.com/p/g.l.santhoshreddy) |
+<p align="center">
+
+<a href="https://github.com/santhoshreddy28">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/santhoshreddy25/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/twc46MvLQy/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://tryhackme.com/p/g.l.santhoshreddy">
+<img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Building & Learning
 
-`TypeScript` `Java` `Data Structures & Algorithms` `Advanced Cybersecurity` `Cloud Security` `AI Applications` `Full-Stack Development`
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+TypeScript+Projects;Improving+Java+%26+DSA;Exploring+AI+Applications;Learning+Advanced+Cybersecurity;Building+Modern+Full-Stack+Applications"/>
+
+</p>
 
 ---
 
 ## 🎯 What I Enjoy Building
 
-| 💻 Software Engineering | 🤖 AI Applications       |
-| ----------------------- | ------------------------ |
-| Full-Stack Applications | AI-Powered Tools         |
-| Backend Systems         | Intelligent Workflows    |
-| REST APIs               | AI Assistants            |
-| Database-Driven Systems | Data-Driven Applications |
+<table>
+<tr>
 
-| 🔐 Cybersecurity         | 🧠 Problem Solving   |
-| ------------------------ | -------------------- |
-| Network Security         | Java & DSA           |
-| Vulnerability Assessment | Debugging            |
-| Security Labs            | Algorithmic Thinking |
-| CTF Challenges           | Real-World Solutions |
+<td width="50%" align="center">
+
+### 💻 Software & Full-Stack
+
+- Modern Web Applications
+- Backend Systems
+- REST APIs
+- Database-Driven Platforms
+- TypeScript Applications
+
+</td>
+
+<td width="50%" align="center">
+
+### 🤖 AI & Intelligent Applications
+
+- AI-Powered Tools
+- AI Assistants
+- Intelligent Workflows
+- Data-Driven Applications
+- AI Integrations
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🔐 Cybersecurity
+
+- Network Security
+- Security Labs
+- Vulnerability Assessment
+- Attack Analysis
+- CTF Challenges
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧠 Problem Solving
+
+- Java & DSA
+- Debugging
+- Logical Thinking
+- Coding Challenges
+- Real-World Solutions
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhoshreddy28\&show_icons=true\&theme=tokyonight\&hide_border=true)](https://github.com/santhoshreddy28)
+<p align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshreddy28\&layout=compact\&theme=tokyonight\&hide_border=true)](https://github.com/santhoshreddy28)
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=santhoshreddy28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santhoshreddy28&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=santhoshreddy28&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshreddy28&theme=tokyo-night&hide_border=true&area=true&custom_title=Santhosh%20Reddy's%20Contribution%20Graph" width="95%"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/santhoshreddy28/santhoshreddy28/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in **software engineering, full-stack development, TypeScript, AI, cybersecurity, cloud technologies, and building practical products**.
+<p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/santhoshreddy28)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/santhoshreddy25/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/twc46MvLQy/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/g.l.santhoshreddy)
+<a href="mailto:gajjalasanthoshreddy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🚀 Building. Learning. Securing.
+<a href="https://www.linkedin.com/in/santhoshreddy25/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/santhoshreddy28">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/twc46MvLQy/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://tryhackme.com/p/g.l.santhoshreddy">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+</p>
+
+<br/>
+
+<div align="center">
+
+### 🚀 Build • Learn • Secure • Ship
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+
+</div>
