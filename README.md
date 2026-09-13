@@ -1,13 +1,15 @@
 # Hi there, I'm Santhosh Reddy 👋
 
-### 💻 Software Engineer • Full-Stack Developer • Cybersecurity Enthusiast • AI Builder
+### 💻 Software Engineer • Full-Stack Developer • Cybersecurity Enthusiast
 
 I'm a Computer Science undergraduate specializing in Cybersecurity, passionate about building practical software, intelligent applications, and security-focused solutions.
 
-I enjoy working across **software development, backend engineering, AI, cybersecurity, and problem solving**.
+I enjoy working across **software development, full-stack engineering, AI, cybersecurity, and problem solving**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/santhoshreddy28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/santhoshreddy25/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/twc46MvLQy/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/g.l.santhoshreddy)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gajjalasanthoshreddy@gmail.com)
 
 ---
@@ -17,12 +19,12 @@ I enjoy working across **software development, backend engineering, AI, cybersec
 * 🎓 **B.Tech Computer Science & Engineering (Cybersecurity)** at **Lovely Professional University**
 * 📅 **2023–2027**
 * 💻 Interested in **Software Engineering, Full-Stack Development, Backend Engineering, AI, and Cybersecurity**
-* ☕ Strong interest in **Java, Python, JavaScript/TypeScript, SQL, and Data Structures & Algorithms**
-* 🌐 Build applications using **React, Next.js, Node.js, Express.js, PostgreSQL, and MongoDB**
+* ☕ Strong interest in **Java, Python, C++, JavaScript, TypeScript, SQL, and Data Structures & Algorithms**
+* 🌐 Building modern applications with **React, Next.js, Node.js, Express.js, TypeScript, PostgreSQL, and MongoDB**
 * 🤖 Exploring **Generative AI, AI-powered applications, LangGraph, and Gemini**
 * 🔐 Hands-on experience with **network security, vulnerability assessment, penetration testing, Linux, and security tools**
-* 🧪 Regularly work on projects, security labs, CTFs, and technical challenges
-* 🚀 Love turning ideas into practical, working software
+* 🧪 Regularly working on projects, security labs, CTFs, and coding challenges
+* 🚀 Enjoy turning ideas into practical, production-style applications
 
 ---
 
@@ -69,7 +71,7 @@ I enjoy working across **software development, backend engineering, AI, cybersec
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -82,16 +84,16 @@ I enjoy working across **software development, backend engineering, AI, cybersec
 
 ### 🔐 Elevate Labs
 
-**Cybersecurity Intern**
+**Cybersecurity Intern** `Sep 2025 – Nov 2025`
 
 * Performed vulnerability assessment and penetration testing on web and network systems
 * Analyzed 50+ network logs to identify suspicious activity and anomalies
 * Worked on threat analysis and technical troubleshooting
-* Gained practical exposure to cybersecurity tools and security testing
+* Gained practical exposure to security testing workflows
 
 ### 🐧 Red Hat Academy — LPU
 
-**Linux System Administration Training**
+**Linux System Administration Training** `Jun 2025 – Jul 2025`
 
 * Worked with Linux user management and process control
 * Practiced system configuration, file permissions, and service management
@@ -203,17 +205,18 @@ A honeypot deployment used to capture malicious SSH activity and analyze attacke
 
 ## 💻 Coding & Professional Profiles
 
-[![GitHub](https://img.shields.io/badge/GitHub-santhoshreddy28-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/santhoshreddy28)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santhosh_Reddy-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/santhoshreddy25/)
-
-[![Email](https://img.shields.io/badge/Email-gajjalasanthoshreddy%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gajjalasanthoshreddy@gmail.com)
+| Platform     | Profile                                                        |
+| ------------ | -------------------------------------------------------------- |
+| 🐙 GitHub    | [santhoshreddy28](https://github.com/santhoshreddy28)          |
+| 💼 LinkedIn  | [Santhosh Reddy](https://www.linkedin.com/in/santhoshreddy25/) |
+| 🧩 LeetCode  | [twc46MvLQy](https://leetcode.com/u/twc46MvLQy/)               |
+| 🔐 TryHackMe | [g.l.santhoshreddy](https://tryhackme.com/p/g.l.santhoshreddy) |
 
 ---
 
 ## 🌱 Currently Learning
 
-`Java` `Data Structures & Algorithms` `Advanced Cybersecurity` `Cloud Security` `AI Applications` `Full-Stack Development`
+`TypeScript` `Java` `Data Structures & Algorithms` `Advanced Cybersecurity` `Cloud Security` `AI Applications` `Full-Stack Development`
 
 ---
 
@@ -235,7 +238,7 @@ A honeypot deployment used to capture malicious SSH activity and analyze attacke
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhoshreddy28\&show_icons=true\&theme=tokyonight\&hide_border=true)](https://github.com/santhoshreddy28)
 
@@ -245,6 +248,11 @@ A honeypot deployment used to capture malicious SSH activity and analyze attacke
 
 ## 🤝 Let's Connect
 
-I'm interested in **software engineering, full-stack development, AI, cybersecurity, cloud technologies, and building practical products**.
+I'm interested in **software engineering, full-stack development, TypeScript, AI, cybersecurity, cloud technologies, and building practical products**.
 
-### 🚀 Building. Securing. Learning.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/santhoshreddy28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/santhoshreddy25/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/twc46MvLQy/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/g.l.santhoshreddy)
+
+### 🚀 Building. Learning. Securing.
